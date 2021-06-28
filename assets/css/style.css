@@ -5,6 +5,7 @@
     padding: 0;
     margin: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
 }
 
 body {
@@ -14,11 +15,9 @@ body {
 header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
 }
 
 a {
-    color: #ffffff;
     text-decoration: none;
 }
 
@@ -89,7 +88,6 @@ article {
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
-    color: #ffffff;
 }
 
 article h2 {
@@ -110,7 +108,6 @@ article img {
     width: 20%;
     height: 100%;
     background-color: #2589bd;
-    color: #ffffff;
 }
 
 .benefit {
