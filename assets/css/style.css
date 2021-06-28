@@ -96,6 +96,10 @@ article h2 {
     font-size: 36px;
 }
 
+article img {
+    max-height: 200px;
+}
+
 /* Benefits Aside Section Elements Formatting */
 
 .benefits-container {
